@@ -1,0 +1,7 @@
+{
+  "dataSource": {
+    "type": "local",
+    "file": "products.txt",
+    "apiEndpoint": "https://your-api-endpoint.com/getProducts"
+  }
+}

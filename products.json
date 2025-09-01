@@ -1,0 +1,155 @@
+[
+  {
+    "id": "haji-electronics",
+    "name": "Haji Electronics",
+    "address": "27 Nawabpur Rd, Dhaka 1100",
+    "contact": "0171-111-1111",
+    "type": "Electronics Store",
+    "products": ["LED bulbs", "switches", "wiring cables", "fans", "circuit breakers"]
+  },
+  {
+    "id": "digital-world-computers",
+    "name": "Digital World Computers",
+    "address": "12 Motijheel C/A, Dhaka 1000",
+    "contact": "0171-222-2222",
+    "type": "Computer Store",
+    "products": ["laptops", "desktops", "printers", "routers", "monitors"]
+  },
+  {
+    "id": "business-tech-supplies",
+    "name": "Business Tech Supplies",
+    "address": "45 Karwan Bazar, Dhaka 1215",
+    "contact": "0171-333-3333",
+    "type": "Office Equipment Supplier",
+    "products": ["photocopiers", "fax machines", "projectors", "office chairs", "stationery"]
+  },
+  {
+    "id": "green-light-electricals",
+    "name": "Green Light Electricals",
+    "address": "89 Nawabpur Rd, Dhaka 1100",
+    "contact": "0171-444-4444",
+    "type": "Electrical Hardware",
+    "products": ["LED panels", "extension cords", "power strips", "tube lights", "electric meters"]
+  },
+  {
+    "id": "techno-hub",
+    "name": "Techno Hub",
+    "address": "15 Gulshan Ave, Dhaka 1212",
+    "contact": "0171-555-5555",
+    "type": "IT Solutions",
+    "products": ["servers", "network switches", "firewalls", "NAS storage", "UPS systems"]
+  },
+  {
+    "id": "smart-office-bd",
+    "name": "Smart Office BD",
+    "address": "22 Banani, Dhaka 1213",
+    "contact": "0171-666-6666",
+    "type": "Office Equipment Supplier",
+    "products": ["conference tables", "whiteboards", "office desks", "ergonomic chairs", "projectors"]
+  },
+  {
+    "id": "nawabpur-electrical-mart",
+    "name": "Nawabpur Electrical Mart",
+    "address": "33 Nawabpur Rd, Dhaka 1100",
+    "contact": "0171-777-7777",
+    "type": "Electrical Hardware",
+    "products": ["MCB breakers", "switchboards", "cables", "PVC pipes", "fuse boxes"]
+  },
+  {
+    "id": "bd-network-solutions",
+    "name": "BD Network Solutions",
+    "address": "18 Motijheel C/A, Dhaka 1000",
+    "contact": "0171-888-8888",
+    "type": "Networking Solutions",
+    "products": ["routers", "switches", "patch panels", "LAN cables", "Wi-Fi extenders"]
+  },
+  {
+    "id": "future-tech-bd",
+    "name": "Future Tech BD",
+    "address": "5 Dhanmondi, Dhaka 1205",
+    "contact": "0171-999-9999",
+    "type": "Computer Store",
+    "products": ["gaming laptops", "mechanical keyboards", "gaming mice", "monitors", "headsets"]
+  },
+  {
+    "id": "prime-electronics",
+    "name": "Prime Electronics",
+    "address": "77 Nawabpur Rd, Dhaka 1100",
+    "contact": "0172-111-2222",
+    "type": "Electronics Store",
+    "products": ["televisions", "home theaters", "DVD players", "set-top boxes", "sound systems"]
+  },
+  {
+    "id": "city-office-supplies",
+    "name": "City Office Supplies",
+    "address": "14 Karwan Bazar, Dhaka 1215",
+    "contact": "0172-222-3333",
+    "type": "Office Equipment Supplier",
+    "products": ["printers", "scanners", "laminators", "binding machines", "office paper"]
+  },
+  {
+    "id": "elite-computers",
+    "name": "Elite Computers",
+    "address": "9 Gulshan-1, Dhaka 1212",
+    "contact": "0172-333-4444",
+    "type": "Computer Store",
+    "products": ["desktop PCs", "SSD drives", "RAM modules", "graphic cards", "motherboards"]
+  },
+  {
+    "id": "power-house-electricals",
+    "name": "Power House Electricals",
+    "address": "101 Nawabpur Rd, Dhaka 1100",
+    "contact": "0172-444-5555",
+    "type": "Electrical Hardware",
+    "products": ["generators", "voltage stabilizers", "transformers", "inverters", "batteries"]
+  },
+  {
+    "id": "connect-bd",
+    "name": "Connect BD",
+    "address": "25 Motijheel C/A, Dhaka 1000",
+    "contact": "0172-555-6666",
+    "type": "Networking Solutions",
+    "products": ["fiber cables", "network testers", "RJ45 connectors", "modems", "PoE switches"]
+  },
+  {
+    "id": "office-plus",
+    "name": "Office Plus",
+    "address": "3 Banani, Dhaka 1213",
+    "contact": "0172-666-7777",
+    "type": "Office Equipment Supplier",
+    "products": ["office partitions", "filing cabinets", "desk lamps", "shredders", "whiteboards"]
+  },
+  {
+    "id": "tech-bazaar",
+    "name": "Tech Bazaar",
+    "address": "56 Dhanmondi, Dhaka 1205",
+    "contact": "0172-777-8888",
+    "type": "Computer Store",
+    "products": ["tablets", "smartphones", "smartwatches", "Bluetooth speakers", "power banks"]
+  },
+  {
+    "id": "electro-mart",
+    "name": "Electro Mart",
+    "address": "60 Nawabpur Rd, Dhaka 1100",
+    "contact": "0172-888-9999",
+    "type": "Electronics Store",
+    "products": ["microwaves", "refrigerators", "washing machines", "air conditioners", "water purifiers"]
+  },
+  {
+    "id": "bd-tech-solutions",
+    "name": "BD Tech Solutions",
+    "address": "11 Gulshan-2, Dhaka 1212",
+    "contact": "0173-111-1111",
+    "type": "IT Solutions",
+    "products": ["cloud hosting", "data backup", "cybersecurity", "ERP software", "CRM systems"]
+  },
+  {
+    "id": "light-house-electricals",
+    "name": "Light House Electricals",
+    "address": "70 Nawabpur Rd, Dhaka 1100",
+    "contact": "0173-222-2222",
+    "type": "Electrical Hardware",
+    "products": ["LED strips", "spotlights", "downlights", "floodlights", "solar panels"]
+  }
+  
+]
